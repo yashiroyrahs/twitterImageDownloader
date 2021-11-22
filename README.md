@@ -1,0 +1,2 @@
+# twitterImageDownloader
+Twitterのスクリーンネームを指定して、任意のユーザの画像付きツイートから画像をダウンロードします。
