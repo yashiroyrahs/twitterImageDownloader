@@ -1,0 +1,11 @@
+#API Key
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
+
+#ツイート取得処理のループ回数(最大16)
+ROOP = 16
+
+#1回に取得するツイート数
+QUANTITY = 200
